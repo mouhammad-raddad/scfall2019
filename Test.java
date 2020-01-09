@@ -21,7 +21,10 @@ public class Test
         System.out.println (p.getName ());		
 
         Person p= new Person ("Lobo", 33);
-        System.out.println (p.getName ());		
+        System.out.println (p.getName ());	
+	    
+	Person p= new Person ("Mouhammad-Raddad", 20170227);
+        System.out.println (p.getName ());
 
     }
 }
